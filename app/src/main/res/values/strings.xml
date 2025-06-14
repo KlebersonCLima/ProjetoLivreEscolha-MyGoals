@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Goals</string>
+    <string name="add_goal_hint">Digite sua meta...</string>
+    <string name="add_goal_button">ADICIONAR META</string>
+    <string name="no_goals_message">Nenhuma meta ainda!</string>
+    <string name="no_goals_subtitle">Adicione sua primeira meta acima</string>
+    <string name="clear_completed">Limpar Concluídas</string>
+    <string name="goal_completed">CONCLUÍDA</string>
+    <string name="goal_active">ATIVA</string>
+    <string name="total_goals">%d metas</string>
+    <string name="goal_added_success">Meta adicionada com sucesso!</string>
+    <string name="enter_goal_text">Por favor, digite uma meta!</string>
+</resources>
